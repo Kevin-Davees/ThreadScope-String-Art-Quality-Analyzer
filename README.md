@@ -12,11 +12,14 @@ The similarity is calculated using the **Structural Similarity Index (SSIM)**.
 
 ---
 
+![Application Interface](assets/Interface.png)
+---
+
 # 📷 Example Output
 
 ## Similarity vs Thread Count
 
-![Similarity Graph](images/similarity_graph.png)
+![Application Interface](assets/similarity_graph.png)
 
 This graph shows how increasing thread count affects the similarity between the simulated string art and the original image.
 
@@ -24,7 +27,7 @@ This graph shows how increasing thread count affects the similarity between the 
 
 ## Visual Comparison Strip
 
-![Comparison Strip](images/comparison_strip.png)
+![Comparison Image](assets/stitched_image.png)
 
 Displays:
 
@@ -272,7 +275,3 @@ Potential enhancements:
 - Integration with string art generators
 
 ---
-
-# 👤 Author
-
-Peter
