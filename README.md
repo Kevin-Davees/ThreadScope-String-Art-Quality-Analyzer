@@ -138,7 +138,7 @@ The application interface includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/threadscope.git
+git clone https://github.com/Kevin-Davees/ThreadScope-String-Art-Quality-Analyzer.git
 cd threadscope
 ```
 
